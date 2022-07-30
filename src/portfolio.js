@@ -700,7 +700,7 @@ const projects = {
     {
       id: "1",
       name: "react-twitter-clone",
-      url: "https://github.com/harikanani/react-twitter-clone",
+      url: "https://github.com/kingmaker9841",
       description:
         "A React Twitter Clone UI with basic functionality such as make a Tweet.Embedded Profile Tweets and Share on Twitter.",
       languages: [
