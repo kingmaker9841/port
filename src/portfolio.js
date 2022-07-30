@@ -767,36 +767,60 @@ const projects = {
     {
       id: "4",
       name: "personal-portfolio",
-      url: "https://github.com/harikanani/personal-portfolio",
-      description:
-        "A simple command line interface based quiz app to know more about me :).",
+      url: "https://github.com/kingmaker9841/port",
+      description: "A simple portfolio project to know more about me :).",
       languages: [
         {
           name: "JavaScript",
           iconifyClass: "logos-javascript",
         },
         {
-          name: "NodeJS",
-          iconifyClass: "logos-nodejs",
+          name: "ReactJS",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: "Sass",
+          iconifyClass: "vscode-icons:file-type-sass",
+        },
+        {
+          name: "HTML5",
+          iconifyClass: "vscode-icons:file-type-html",
+        },
+        {
+          name: "CSS3",
+          iconifyClass: "vscode-icons:file-type-css",
         },
       ],
     },
     {
       id: "3",
-      name: "node_express_crud_api_starter",
-      url: "https://github.com/harikanani/node_express_crud_api_starter",
-      description: "Simple NodeJS Express CRUD Operations API starter.",
+      name: "khalti-wallet",
+      url: "https://github.com/kingmaker9841/khalti1",
+      description:
+        "Simple React application showing usecase of khalti wallet-api.",
       languages: [
         {
-          name: "NodeJS",
-          iconifyClass: "logos-nodejs",
+          name: "ReactJS",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: "HTML5",
+          iconifyClass: "vscode-icons:file-type-html",
+        },
+        {
+          name: "CSS3",
+          iconifyClass: "vscode-icons:file-type-css",
+        },
+        {
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
         },
       ],
     },
     {
       id: "4",
       name: "node-web-scrapper",
-      url: "https://github.com/harikanani/node-web-scrapper",
+      url: "https://github.com/kingmaker9841",
       description:
         "A Simple web scrapper that scrap the information of amazon products such as price.It also scrap Wikipedia Data such as birthdate.",
       languages: [
@@ -816,10 +840,9 @@ const projects = {
     },
     {
       id: "5",
-      name: "harikanani.github.io",
-      url: "https://github.com/harikanani/harikanani.github.io",
-      description:
-        "A Personal Portfolio Website that showcases my work and experience. which is hosted on Github Pages.",
+      name: "crypto-wallet",
+      url: "https://github.com/kingmaker9841/meta-crypto",
+      description: "A Simple crypto wallet connector",
       languages: [
         {
           name: "HTML5",
@@ -834,15 +857,15 @@ const projects = {
           iconifyClass: "logos-javascript",
         },
         {
-          name: "SCSS",
-          iconifyClass: "vscode-icons:file-type-scss2",
+          name: "Typescript",
+          iconifyClass: "logos:typescript-icon",
         },
       ],
     },
     {
       id: "6",
       name: "Automate Attendace",
-      url: "https://github.com/harikanani/Node_Python",
+      url: "https://github.com/kingmaker9841",
       description: "Automation of Online Attendance using node js and python",
       languages: [
         {
@@ -857,38 +880,17 @@ const projects = {
     },
     {
       id: "7",
-      name: "Automate Discord Bot",
-      url: "https://github.com/harikanani/AutomateDiscordBot",
-      description:
-        "A Discord Bot to send Automatic messages to serer channel in regular time difference.",
+      name: "Sajabazar",
+      url: "https://github.com/kingmaker9841/mern-project-first",
+      description: "A MERN project showcasing CRUD operations",
       languages: [
         {
-          name: "Python",
-          iconifyClass: "logos-python",
+          name: "NodeJS",
+          iconifyClass: "logos-nodejs",
         },
         {
-          name: "Python Selenium",
-          iconifyClass: "logos-selenium",
-        },
-        {
-          name: "Chromium Browser",
-          iconifyClass: "openmoji-chromium",
-        },
-      ],
-    },
-    {
-      id: "8",
-      name: "Flask Blog",
-      url: "https://github.com/harikanani/flask_blog",
-      description: "A Simple Blog Web Application made using Flask Framework",
-      languages: [
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-        {
-          name: "Flask",
-          iconifyClass: "cib-flask",
+          name: "ReactJS",
+          iconifyClass: "logos-react",
         },
         {
           name: "HTML5",
@@ -898,21 +900,49 @@ const projects = {
           name: "CSS3",
           iconifyClass: "vscode-icons:file-type-css",
         },
-      ],
-    },
-    {
-      id: "9",
-      name: "Netflix top series",
-      url: "https://github.com/harikanani/netflix-top-series",
-      description: "List of Top Netflix Series which is deployed to vercel.",
-      languages: [
         {
           name: "JavaScript",
           iconifyClass: "logos-javascript",
         },
         {
+          name: "MongoDB",
+          iconifyClass: "vscode-icons:file-type-mongo",
+        },
+      ],
+    },
+    {
+      id: "8",
+      name: "Classiestate",
+      url: "https://github.com/kingmaker9841/classiEstate",
+      description: "A Simple Web Application for real estate",
+      languages: [
+        {
           name: "ReactJS",
           iconifyClass: "logos-react",
+        },
+        {
+          name: "HTML5",
+          iconifyClass: "vscode-icons:file-type-html",
+        },
+        {
+          name: "CSS3",
+          iconifyClass: "vscode-icons:file-type-css",
+        },
+        {
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
+        },
+      ],
+    },
+    {
+      id: "9",
+      name: "websocket-test",
+      url: "https://github.com/kingmaker9841/websocket-test",
+      description: "Simple chat application (For Learning purposes)",
+      languages: [
+        {
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
         },
         {
           name: "HTML5",
@@ -921,38 +951,42 @@ const projects = {
         {
           name: "CSS3",
           iconifyClass: "logos-css-3",
+        },
+        {
+          name: "SocketIO",
+          iconifyClass: "logos:socket-io",
         },
       ],
     },
     {
       id: "10",
       name: "COVID-19 Tracker",
-      url: "https://github.com/harikanani/Covid19TrackerReact",
-      description:
-        "Simple Covid-19 Tracker made using React and deployed to Vercel.",
+      url:
+        "https://github.com/kingmaker9841/nodemailer-test/blob/master/package.json",
+      description: "Simple messaging (For learning purposes)",
       languages: [
         {
           name: "JavaScript",
           iconifyClass: "logos-javascript",
         },
         {
+          name: "MongoDB",
+          iconifyClass: "vscode-icons:file-type-mongo",
+        },
+        {
+          name: "NodeJs",
+          iconifyClass: "logos-nodejs",
+        },
+        {
           name: "ReactJS",
           iconifyClass: "logos-react",
-        },
-        {
-          name: "HTML5",
-          iconifyClass: "logos-html-5",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "logos-css-3",
         },
       ],
     },
     {
       id: "11",
       name: "Food Order Static Website",
-      url: "https://github.com/harikanani/food-order-website",
+      url: "https://github.com/kingmaker9841/onlinefooddelivery",
       description:
         "A simple static website related to food restaurants service. this is reasponsive as well.",
       languages: [
@@ -969,28 +1003,12 @@ const projects = {
           iconifyClass: "logos-javascript",
         },
         {
-          name: "PHP",
-          iconifyClass: "logos-php",
-        },
-      ],
-    },
-    {
-      id: "12",
-      name: "NFT Launchpad",
-      url: "https://deliquescent-cents.000webhostapp.com/",
-      description: "NFT Launchpad crypto site portfolio",
-      languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "logos-html-5",
+          name: "NodeJS",
+          iconifyClass: "logos-nodejs",
         },
         {
-          name: "CSS3",
-          iconifyClass: "logos-css-3",
-        },
-        {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
+          name: "Redux",
+          iconifyClass: "logos-redux",
         },
         {
           name: "ReactJS",
@@ -998,6 +1016,30 @@ const projects = {
         },
       ],
     },
+    // {
+    //   id: "12",
+    //   name: "NFT Launchpad",
+    //   url: "https://deliquescent-cents.000webhostapp.com/",
+    //   description: "NFT Launchpad crypto site portfolio",
+    //   languages: [
+    //     {
+    //       name: "HTML5",
+    //       iconifyClass: "logos-html-5",
+    //     },
+    //     {
+    //       name: "CSS3",
+    //       iconifyClass: "logos-css-3",
+    //     },
+    //     {
+    //       name: "JavaScript",
+    //       iconifyClass: "logos-javascript",
+    //     },
+    //     {
+    //       name: "ReactJS",
+    //       iconifyClass: "logos-react",
+    //     },
+    //   ],
+    // },
   ],
 };
 
